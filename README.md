@@ -1,2 +1,3 @@
 # TravelSocketsCSharp
-aplicatie client-server a unei companii de zbor 
+Client-server App for a Flight Company 
+MPP Project 2019-2020
